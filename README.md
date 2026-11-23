@@ -7,4 +7,5 @@ Every photo used in our videos, with author/source, license and link.
 - [Д03_1965_Summer_Job_Car](D03.md) — 67 photos
 - [Г01_Monatslohn_1964](G01.md) — 57 photos
 - [Г02_Kindheit_60er](G02.md) — 39 photos
-- [Д04_Christmas_Traditions_1960s](D04.md) — 24 photos
+- [Г03_Weihnachten_60er](G03.md) — 43 photos
+- [Д04_Christmas_Traditions_1960s](D04.md) — 26 photos
