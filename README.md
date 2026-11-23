@@ -6,3 +6,4 @@ Every photo used in our videos, with author/source, license and link.
 - [Д02_1962_Paycheck_Dollar_by_Dollar](D02.md) — 16 photos
 - [Д03_1965_Summer_Job_Car](D03.md) — 67 photos
 - [Г01_Monatslohn_1964](G01.md) — 57 photos
+- [Г02_Kindheit_60er](G02.md) — 44 photos
